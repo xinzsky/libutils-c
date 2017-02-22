@@ -24,15 +24,15 @@
   + md5 -------------- md5
   + sha1 ------------- sha1
   + crc32 ------------ crc32
-  + rand ------------- 随机数生成
+  + rand ------------- 随机数生成
 * 数据结构、算法、数据处理
   + fsfhash ---------- Free Software Foundation Hast table
   + phphash ---------- PHP里实现的hash table
   + hbm -------------- Boyer-Moore-Horsepool 字符串查找算法
   + mwm -------------- A Modified Wu-Manber Style Multi-Pattern Matcher （多模式匹配算法）
-  + charset ---------- 字符集、全局转半角、繁体转简体等
-  + regexp ----------- 正则表达式 used pcre posix api, support utf-8.
-  + datime ----------- 日志时间转换
+  + charset ---------- 字符集、全角转半角、繁体转简体等
+  + regexp ----------- 正则表达式匹配，使用pcre posix，支持utf-8字符集
+  + datime ----------- 日期时间转换
   + headword --------- 中心词提取
   + recognizer ------- 关键词识别
   + record ----------- 用于从文件中读取XML记录并解析
