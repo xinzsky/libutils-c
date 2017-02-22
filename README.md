@@ -50,6 +50,10 @@
   + urlparse --------- URL解析
 * 实用类
   + utils.c ---------- 一些实用函数：文件读写、压缩、url/html/base64/十六进制编解码等
-  
+
+## 编译安装
+所需依赖库：pcre tokyocabinet iconv , tokyocabinet是一个Key-Value DB。    
+make; make install  默认安装到/usr/local/lib  /usr/loca/include
+
 ## 反馈
 dudubird2006###163.com
